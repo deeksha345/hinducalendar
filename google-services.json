@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645509350792",
+    "project_id": "hindu-calendar-345",
+    "storage_bucket": "hindu-calendar-345.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645509350792:android:be89b39a38d3a3d5b8a63d",
+        "android_client_info": {
+          "package_name": "com.tithitraditions.hinducalendar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNmoGAIaN_EHtJwrvVhd7c8soWIZGQjCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
